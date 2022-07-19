@@ -2,7 +2,7 @@
 {
     public class Config
     {
-        private static string token = "OTA4NDY4NzEwODU4MTk0OTQ0.YY2Law.0C9MEeSsq4RU7ZwGxotTL3UhXzU";
+        private static string token = "Token_here";
         public const string prefix = "!";
 
         public static string GetToken()
